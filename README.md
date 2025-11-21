@@ -49,6 +49,9 @@ Design and development of a smart cleaning robot integrating mapping, obstacle d
 ### **• Embedded Software Validation in Virtual Environment**  
 QEMU-based simulation of Raspberry Pi 3B for developing and testing embedded applications without physical hardware.
 
+### **• I²C Scanner and Microcontroller Integration** 
+Development and testing of an I²C scanner on ESP32‑C6, including simulations on Wokwi, implementation in C++, and integration with an I²C multiplexer and two ATtiny85 microcontrollers
+
 ---
 
 ## **Contact**
