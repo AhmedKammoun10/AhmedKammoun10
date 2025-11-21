@@ -52,8 +52,8 @@ QEMU-based simulation of Raspberry Pi 3B for developing and testing embedded app
 ---
 
 ## **Contact**
-📧 **ahmed.kammoun@example.com**  
-🔗 **LinkedIn:** *(ajoute ton lien)*  
+📧 **ahmedkamoun2002@gmail.com**  
+🔗 **LinkedIn:** *www.linkedin.com/in/ahmed-kammoun-b79196308*  
 🖥️ **GitHub:** [AhmedKammoun10](https://github.com/AhmedKammoun10)
 
 ---
