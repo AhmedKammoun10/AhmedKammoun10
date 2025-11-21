@@ -41,10 +41,10 @@
 Real-time facial emotion detection using CNNs (VGG16, ResNet50) with embedded control (automatic speed limitation when emotion = “anger”).
 
 ### **• Smart Irrigation System**  
-IoT-based irrigation controller using ESP32-C6, I2C multiplexer, and ATtiny85 microcontrollers for distributed sensing and control.
+IoT-based irrigation controller using ESP32-C6, implementing a Random Forest model for smart irrigation, with a Flask web interface and SQLite database for monitoring and data storage.
 
 ### **• Intelligent Cleaning Robot**  
-Design and development of a smart cleaning robot integrating **mapping**, **obstacle detection**, and **autonomous navigation** using embedded microcontrollers, motor drivers, and sensor fusion.
+Design and development of a smart cleaning robot integrating mapping, obstacle detection, and autonomous navigation using Raspberry Pi 4, motor drivers, and sensor fusion.
 
 ### **• Embedded Software Validation in Virtual Environment**  
 QEMU-based simulation of Raspberry Pi 3B for developing and testing embedded applications without physical hardware.
