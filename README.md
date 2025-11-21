@@ -1,71 +1,62 @@
-Ahmed KAMMOUN
+# **Ahmed KAMMOUN**
 
-🎓 Embedded Systems Engineering Student
-🏫 École Nationale d'Électronique et des Télécommunications de Sfax (ENET'Com) – Tunisia
-🔧 Passionate about Embedded Systems, IoT, Edge AI, and Computer Vision
+🎓 **Embedded Systems Engineering Student**  
+🏫 *École Nationale d'Électronique et des Télécommunications de Sfax (ENET'Com) – Tunisia*  
+🔧 Passionate about **Embedded Systems, IoT, Edge AI, and Computer Vision**
 
-About Me
+---
 
-🎓 Engineering student specializing in Electronic & Communication Systems
+## **About Me**
+- 🎓 Engineering student specializing in **Electronic & Communication Systems**  
+- ⚙️ Experience with **ESP32/ESP32-C6, STM32, Raspberry Pi**, and embedded Linux  
+- 🤖 Focus on **real-time emotion detection, deep learning, and embedded optimization**  
+- 🔍 Interested in **AI deployment on low-resource hardware, and intelligent autonomous systems**
 
-⚙️ Experience with ESP32/ESP32-C6, STM32, Raspberry Pi, and embedded Linux
+---
 
-🤖 Focus on real-time emotion detection, deep learning, and embedded optimization
+## **Skills & Technologies**
 
-🔍 Interested in AI deployment on low-resource hardware, and intelligent autonomous systems
+### **Embedded Systems**
+- ⚙️ C / C++, Microcontrollers, FreeRTOS  
+- 📡 ESP32, STM32, Raspberry Pi  
+- 🔌 I2C, SPI, UART, PWM, ADC, GPIO  
+- 🛠️ Hardware debugging & sensor integration  
 
-Skills & Technologies
-Embedded Systems
+### **Software & Tools**
+- 🐍 Python, MATLAB  
+- 🌐 Git / GitHub  
+- 🐧 Linux (Ubuntu), Bash  
+- 📦 Docker, QEMU  
 
-⚙️ C / C++, Microcontrollers, FreeRTOS
+### **AI & Deep Learning**
+- 🧠 TensorFlow, Keras, OpenCV  
+- 📊 CNNs, image processing  
+- ⚗️ Model optimization (quantization, pruning)
 
-📡 ESP32, STM32, Raspberry Pi
+---
 
-🔌 I2C, SPI, UART, PWM, ADC, GPIO
+## **Highlighted Projects**
 
-🛠️ Hardware debugging & sensor integration
-
-Software & Tools
-
-🐍 Python, MATLAB
-
-🌐 Git / GitHub
-
-🐧 Linux (Ubuntu), Bash
-
-📦 Docker, QEMU
-
-AI & Deep Learning
-
-🧠 TensorFlow, Keras, OpenCV
-
-📊 CNNs, image processing
-
-⚗️ Model optimization (quantization, pruning)
-
-Highlighted Projects
-• Intelligent Emotion Recognition System for Driving Assistance
-
+### **• Intelligent Emotion Recognition System for Driving Assistance**  
 Real-time facial emotion detection using CNNs (VGG16, ResNet50) with embedded control (automatic speed limitation when emotion = “anger”).
 
-• Smart Irrigation System
-
+### **• Smart Irrigation System**  
 IoT-based irrigation controller using ESP32-C6, I2C multiplexer, and ATtiny85 microcontrollers for distributed sensing and control.
 
-• Intelligent Cleaning Robot
+### **• Intelligent Cleaning Robot**  
+Design and development of a smart cleaning robot integrating **mapping**, **obstacle detection**, and **autonomous navigation** using embedded microcontrollers, motor drivers, and sensor fusion.
 
-Design and development of a smart cleaning robot integrating mapping, obstacle detection, and autonomous navigation using embedded microcontrollers, motor drivers, and sensor fusion.
-
-• Embedded Software Validation in Virtual Environment
-
+### **• Embedded Software Validation in Virtual Environment**  
 QEMU-based simulation of Raspberry Pi 3B for developing and testing embedded applications without physical hardware.
 
-Contact
+---
 
-📧 ahmed.kammoun@example.com
-
-🔗 LinkedIn: (ajoute ton lien)
+## **Contact**
+📧 **ahmed.kammoun@example.com**  
+🔗 **LinkedIn:** *(ajoute ton lien)*  
 🖥️ **GitHub:** [AhmedKammoun10](https://github.com/AhmedKammoun10)
+
+---
 
 ## **GitHub Stats**
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedKammoun10&show_icons=true&theme=default)
