@@ -1,65 +1,61 @@
-# **Ahmed KAMMOUN**
-
-🎓 **Embedded Systems Engineering Student**  
-🏫 *École Nationale d'Électronique et des Télécommunications de Sfax (ENET'Com) – Tunisia*  
-🔧 Passionate about **Embedded Systems, IoT, Edge AI, and Computer Vision**
-
----
-
-## **About Me**
-- 🎓 Engineering student specializing in **Electronic & Communication Systems**  
-- ⚙️ Experience with **ESP32/ESP32-C6, STM32, Raspberry Pi**, and embedded Linux  
-- 🤖 Focus on **real-time emotion detection, deep learning, and embedded optimization**  
-- 🔍 Interested in **AI deployment on low-resource hardware, and intelligent autonomous systems**
+# Ahmed KAMMOUN
+**Étudiant en Ingénierie des Systèmes Embarqués**  
+🏫 École Nationale d'Électronique et des Télécommunications de Sfax (ENET'Com) – Tunisie  
+🔧 Passionné par les systèmes embarqués, l'IoT, l'Edge AI et la vision par ordinateur
 
 ---
 
-## **Skills & Technologies**
+## 👨‍🎓 À propos de moi
 
-### **Embedded Systems**
-- ⚙️ C / C++, Microcontrollers, FreeRTOS  
-- 📡 ESP32, STM32, Raspberry Pi  
-- 🔌 I2C, SPI, UART, PWM, ADC, GPIO  
-- 🛠️ Hardware debugging & sensor integration  
-
-### **Software & Tools**
-- 🐍 Python, MATLAB  
-- 🌐 Git / GitHub  
-- 🐧 Linux (Ubuntu), Bash  
-- 📦 Docker, QEMU  
-
-### **AI & Deep Learning**
-- 🧠 TensorFlow, Keras, OpenCV  
-- 📊 CNNs, image processing  
-- ⚗️ Model optimization (quantization, pruning)
+Étudiant en ingénierie spécialisé en Systèmes Électroniques et de Communication.  
+Expérience avec les plateformes **ESP32/ESP32-C6, STM32, Raspberry Pi** et les systèmes **Linux embarqués**.  
+Centré sur la **détection d'émotions en temps réel**, l'apprentissage profond et l'optimisation embarquée.  
+Intéressé par le déploiement de l'IA sur des matériels à ressources limitées et les systèmes autonomes intelligents.
 
 ---
 
-## **Highlighted Projects**
+## 🛠️ Compétences & Technologies
 
-### **• Intelligent Emotion Recognition System for Driving Assistance**  
-Real-time facial emotion detection using CNNs (VGG16, ResNet50) with embedded control (automatic speed limitation when emotion = “anger”).
+### **Systèmes Embarqués**
+- ⚙️ C / C++, Microcontrôleurs, FreeRTOS
+- 📡 ESP32, STM32, Raspberry Pi
+- 🔌 I2C, SPI, UART, PWM, ADC, GPIO
+- 🛠️ Débogage matériel et intégration de capteurs
 
-### **• Smart Irrigation System**  
-IoT-based irrigation controller using ESP32-C6, implementing a Random Forest model for smart irrigation, with a Flask web interface and SQLite database for monitoring and data storage.
+### **Logiciels & Outils**
+- 🐍 Python, MATLAB
+- 🌐 Git / GitHub
+- 🐧 Linux (Ubuntu), Bash
+- 📦 Docker, QEMU
 
-### **• Intelligent Cleaning Robot**  
-Design and development of a smart cleaning robot integrating mapping, obstacle detection, and autonomous navigation using Raspberry Pi 4, motor drivers, and sensor fusion.
-
-### **• Embedded Software Validation in Virtual Environment**  
-QEMU-based simulation of Raspberry Pi 3B for developing and testing embedded applications without physical hardware.
-
-### **• I²C Scanner and Microcontroller Integration** 
-Development and testing of an I²C scanner on ESP32‑C6, including simulations on Wokwi, implementation in C++, and integration with an I²C multiplexer and two ATtiny85 microcontrollers
-
----
-
-## **Contact**
-📧 **ahmedkamoun2002@gmail.com**  
-🔗 **LinkedIn:** *www.linkedin.com/in/ahmed-kammoun-b79196308*  
-🖥️ **GitHub:** [AhmedKammoun10](https://github.com/AhmedKammoun10)
+### **IA & Apprentissage Profond**
+- 🧠 TensorFlow, Keras, OpenCV
+- 📊 CNN, traitement d'image
+- ⚗️ Optimisation de modèles (quantification, élagage)
 
 ---
 
-## **GitHub Stats**
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedKammoun10&show_icons=true&theme=default)
+## 🚀 Projets Phares
+
+### • Système Intelligent de Reconnaissance des Émotions pour l'Aide à la Conduite
+Détection faciale des émotions en temps réel à l'aide de réseaux de neurones convolutifs (VGG16, ResNet50) avec contrôle embarqué (limitation automatique de la vitesse en cas d'émotion = « colère »).
+
+### • Système d'Irrigation Intelligent
+Contrôleur d'irrigation basé sur l'IoT utilisant ESP32-C6, avec un modèle Random Forest pour une irrigation intelligente, une interface web Flask et une base de données SQLite pour la surveillance et le stockage des données.
+
+### • Robot de Nettoyage Intelligent
+Conception et développement d'un robot de nettoyage intelligent intégrant la cartographie, la détection d'obstacles et la navigation autonome avec Raspberry Pi 4, des pilotes de moteur et la fusion de capteurs.
+
+### • Validation de Logiciel Embarqué en Environnement Virtuel
+Simulation basée sur QEMU d'un Raspberry Pi 3B pour développer et tester des applications embarquées sans matériel physique.
+
+### • Scanner I²C et Intégration de Microcontrôleurs
+Développement et test d'un scanner I²C sur ESP32‑C6, incluant des simulations sur Wokwi, l'implémentation en C++ et l'intégration avec un multiplexeur I²C et deux microcontrôleurs ATtiny85.
+
+---
+
+## 📞 Contact
+
+- 📧 **Email** : ahmedkamoun2002@gmail.com  
+- 🔗 **LinkedIn** : [www.linkedin.com/in/ahmed-kammoun-b79196308](https://www.linkedin.com/in/ahmed-kammoun-b79196308)  
+- 🖥️ **GitHub** : [AhmedKammoun10](https://github.com/AhmedKammoun10)
